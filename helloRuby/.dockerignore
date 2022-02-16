@@ -1,0 +1,7 @@
+.git
+.idea
+.gitignore
+log/*
+tmp/*
+*.swp
+*.swo

@@ -1,0 +1,2 @@
+class SayhiController < ApplicationController
+end
